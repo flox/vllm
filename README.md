@@ -1,4 +1,4 @@
-# vLLM Custom Build Environment
+# vLLM GPU-Specific Builds
 
 Per-architecture vLLM builds optimized for specific NVIDIA GPU targets, with custom source-built PyTorch. Built with Flox + Nix.
 
